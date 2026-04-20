@@ -29,5 +29,7 @@
 
 
 
-<p align="center"> <img width="99" height="55" alt="tumblr_45d7b879debb3afe0c022cb3a7d99dbc_254539dd_100" src="https://github.com/user-attachments/assets/6c3a502e-07ab-42df-90d4-34ca8abed657" /> <a href="https://picojutsu.atabook.org/">atabook</a>
+<p align="center">
+   <img width="99" height="55" alt="tumblr_45d7b879debb3afe0c022cb3a7d99dbc_254539dd_100" src="https://github.com/user-attachments/assets/6c3a502e-07ab-42df-90d4-34ca8abed657" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/b033438b-ec30-4880-bad7-105348bee911" /> 
+   <a href="https://picojutsu.atabook.org/">atabook</a>
 <img width="540" height="32" alt="545872039-b6413d6b-c6fc-4c94-818c-8bd19c25a413" src="https://github.com/user-attachments/assets/7ee96a6d-50d7-43a3-a556-41ddde0954ad" />
